@@ -1,0 +1,11 @@
+C:\Users\David\source\repos\exercice ma 24 semaine 6\exercice ma 24 semaine 6\obj\Debug\netcoreapp2.1\exercice ma 24 semaine 6.csprojAssemblyReference.cache
+C:\Users\David\source\repos\exercice ma 24 semaine 6\exercice ma 24 semaine 6\obj\Debug\netcoreapp2.1\exercice ma 24 semaine 6.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\exercice ma 24 semaine 6\exercice ma 24 semaine 6\obj\Debug\netcoreapp2.1\exercice ma 24 semaine 6.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\exercice ma 24 semaine 6\exercice ma 24 semaine 6\obj\Debug\netcoreapp2.1\exercice ma 24 semaine 6.AssemblyInfo.cs
+C:\Users\David\source\repos\exercice ma 24 semaine 6\exercice ma 24 semaine 6\bin\Debug\netcoreapp2.1\exercice ma 24 semaine 6.deps.json
+C:\Users\David\source\repos\exercice ma 24 semaine 6\exercice ma 24 semaine 6\bin\Debug\netcoreapp2.1\exercice ma 24 semaine 6.runtimeconfig.json
+C:\Users\David\source\repos\exercice ma 24 semaine 6\exercice ma 24 semaine 6\bin\Debug\netcoreapp2.1\exercice ma 24 semaine 6.runtimeconfig.dev.json
+C:\Users\David\source\repos\exercice ma 24 semaine 6\exercice ma 24 semaine 6\bin\Debug\netcoreapp2.1\exercice ma 24 semaine 6.dll
+C:\Users\David\source\repos\exercice ma 24 semaine 6\exercice ma 24 semaine 6\bin\Debug\netcoreapp2.1\exercice ma 24 semaine 6.pdb
+C:\Users\David\source\repos\exercice ma 24 semaine 6\exercice ma 24 semaine 6\obj\Debug\netcoreapp2.1\exercice ma 24 semaine 6.dll
+C:\Users\David\source\repos\exercice ma 24 semaine 6\exercice ma 24 semaine 6\obj\Debug\netcoreapp2.1\exercice ma 24 semaine 6.pdb

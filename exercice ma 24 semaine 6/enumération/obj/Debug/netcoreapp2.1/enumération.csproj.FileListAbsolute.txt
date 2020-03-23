@@ -1,0 +1,11 @@
+C:\Users\David\source\repos\exercice ma 24 semaine 6\enumération\bin\Debug\netcoreapp2.1\enumération.deps.json
+C:\Users\David\source\repos\exercice ma 24 semaine 6\enumération\bin\Debug\netcoreapp2.1\enumération.runtimeconfig.json
+C:\Users\David\source\repos\exercice ma 24 semaine 6\enumération\bin\Debug\netcoreapp2.1\enumération.runtimeconfig.dev.json
+C:\Users\David\source\repos\exercice ma 24 semaine 6\enumération\bin\Debug\netcoreapp2.1\enumération.dll
+C:\Users\David\source\repos\exercice ma 24 semaine 6\enumération\bin\Debug\netcoreapp2.1\enumération.pdb
+C:\Users\David\source\repos\exercice ma 24 semaine 6\enumération\obj\Debug\netcoreapp2.1\enumération.csprojAssemblyReference.cache
+C:\Users\David\source\repos\exercice ma 24 semaine 6\enumération\obj\Debug\netcoreapp2.1\enumération.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\exercice ma 24 semaine 6\enumération\obj\Debug\netcoreapp2.1\enumération.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\exercice ma 24 semaine 6\enumération\obj\Debug\netcoreapp2.1\enumération.AssemblyInfo.cs
+C:\Users\David\source\repos\exercice ma 24 semaine 6\enumération\obj\Debug\netcoreapp2.1\enumération.dll
+C:\Users\David\source\repos\exercice ma 24 semaine 6\enumération\obj\Debug\netcoreapp2.1\enumération.pdb

@@ -1,0 +1,10 @@
+C:\Users\David\Desktop\Arche de Noé\Arche de Noé\bin\Debug\Arche de Noé.exe.config
+C:\Users\David\Desktop\Arche de Noé\Arche de Noé\bin\Debug\Arche de Noé.exe
+C:\Users\David\Desktop\Arche de Noé\Arche de Noé\bin\Debug\Arche de Noé.pdb
+C:\Users\David\Desktop\Arche de Noé\Arche de Noé\obj\Debug\Liste Exercice.csprojAssemblyReference.cache
+C:\Users\David\Desktop\Arche de Noé\Arche de Noé\obj\Debug\Arche_de_Noé.Form1.resources
+C:\Users\David\Desktop\Arche de Noé\Arche de Noé\obj\Debug\Arche_de_Noé.Properties.Resources.resources
+C:\Users\David\Desktop\Arche de Noé\Arche de Noé\obj\Debug\Liste Exercice.csproj.GenerateResource.cache
+C:\Users\David\Desktop\Arche de Noé\Arche de Noé\obj\Debug\Liste Exercice.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Arche de Noé\Arche de Noé\obj\Debug\Arche de Noé.exe
+C:\Users\David\Desktop\Arche de Noé\Arche de Noé\obj\Debug\Arche de Noé.pdb
